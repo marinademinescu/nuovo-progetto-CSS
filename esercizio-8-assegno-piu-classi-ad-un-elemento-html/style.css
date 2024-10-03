@@ -1,0 +1,12 @@
+.articolo{
+    color: black;
+}
+
+p.post{
+    color: black;
+    width: 40px;
+}
+
+p.sfondo{
+    background-color: pink ;
+}
