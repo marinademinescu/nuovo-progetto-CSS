@@ -1,0 +1,19 @@
+p{
+    border: 1px solid red;
+    background-color: beige;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
+.n-1{
+    display: inline;
+}
+
+.n-2{
+    display: inline-block;
+}
+
+.n-3{
+    display: block;
+}
