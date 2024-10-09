@@ -1,0 +1,12 @@
+.navbar{
+    background-color: aqua;
+    overflow: hidden;
+    top: 0;
+    position: sticky;
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+.navbar a {
+    background-color: gold;
+}
