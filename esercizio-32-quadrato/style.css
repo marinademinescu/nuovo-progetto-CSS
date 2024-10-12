@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: opacity ;
+}
+
+.hidden{
+    opacity: 0;
+}
