@@ -1,0 +1,7 @@
+:root {
+    --padding: 50px;
+}
+
+.contenitore {
+    padding: var(--padding-standard)
+}
