@@ -1,0 +1,14 @@
+.contenitore-flex {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: orange;
+}
+
+.contenitore-flex div {
+    background-color: beige;
+    width: 70px;
+    margin: 30px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+  }
