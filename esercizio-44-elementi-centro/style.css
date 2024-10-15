@@ -1,0 +1,14 @@
+.contenitore-flex {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.contenitore-flex div {
+    background-color: aliceblue;
+    width: 80px;
+    margin: 10px;
+    line-height: 55px;
+    text-align: center;
+    font-size: 25px;
+}
