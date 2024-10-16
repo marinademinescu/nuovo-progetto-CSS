@@ -1,0 +1,15 @@
+.contenitore-flex {
+    display: flex;
+    height: 250px;
+    background-color: aquamarine;
+}
+
+.contenitore-flex div {
+    background-color: beige;
+    color: black;
+    width: 100px;
+    margin: 15px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+}
