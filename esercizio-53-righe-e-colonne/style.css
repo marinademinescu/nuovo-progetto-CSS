@@ -9,7 +9,7 @@
 }
 
 .grid-container div {
-    background-color:yellowgreen;
+    background-color: yellowgreen;
     border: 1px solid black;
     display: flex;
     justify-content: center;
