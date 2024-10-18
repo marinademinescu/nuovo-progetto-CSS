@@ -13,3 +13,7 @@
     line-height: 70px;
     font-size: 30px;
 }
+
+.secondo {
+    flex-basis: 150px;
+}
