@@ -12,3 +12,11 @@
     line-height: 70px;
     font-size: 35px;
 }
+
+.terzo {
+    display: flex;
+    flex: 0 0 200px;
+    text-align: center;
+    justify-content: center;
+
+}
