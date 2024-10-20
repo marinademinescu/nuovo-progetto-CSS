@@ -8,7 +8,15 @@
     background-color: bisque;
     color: black;
     margin: 10px;
+    width: 100px;
     text-align: center;
-    line-height: 80px;
+    line-height: 75px;
     font-size: 30px;
+}
+
+.uno {
+    display: flex;
+    flex-shrink: 3;
+    text-align: center;
+
 }
