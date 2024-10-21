@@ -2,21 +2,24 @@
     display: flex;
     align-items: stretch;
     background-color: aqua;
+   
+
 }
 
-.contenitore-flex div {
+.box {
     background-color: antiquewhite;
     color: red;
     margin: 15px;
     text-align: center;
     line-height: 70px;
     font-size: 35px;
-}
-
-.terzo {
-    display: flex;
-    flex: 0 0 200px;
-    text-align: center;
-    justify-content: center;
+    flex-grow: 2;
+    padding: 10px;
 
 }
+
+.box:nth-child(3) {
+    flex-grow: 5;
+}
+
+ 
